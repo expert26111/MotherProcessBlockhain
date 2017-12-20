@@ -14,6 +14,7 @@ Another way for mining different than while loop was using the child-process npm
 Link for the child process : https://github.com/expert26111/ChildProcessCode/blob/master/mining1.js
 Link for the main code:
 https://github.com/expert26111/MotherProcessBlockhain/blob/master/main.js
+![another way](https://github.com/expert26111/MotherProcessBlockhain/blob/master/postrequest.png)
 
 The picture above shows how it works only the main.js is runned with the command node main.js and in the method _addBlock the mining will be done it separate script accessed on given path. 
 
