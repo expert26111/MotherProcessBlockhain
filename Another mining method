@@ -5,7 +5,7 @@ There has been a server created for returning a hash of difficulty 4. That means
 https://sleepy-cove-43230.herokuapp.com
 
 When making a post request. 
-![]('https://github.com/expert26111/MotherProcessBlockhain/blob/master/herokurequest.png')
+![mother](https://github.com/expert26111/MotherProcessBlockhain/blob/master/herokurequest.png)
 
 A block object has to be passed and mining is performed and hash is returned.
 The problem that occurs here if the strategy for creating a few servers like this and nonce starting from 0 to 200 for first and 200 to 400 for second and ect then which ajax request returned faster. This requires some advanced javascript code.
